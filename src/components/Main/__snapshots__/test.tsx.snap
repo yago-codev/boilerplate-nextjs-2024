@@ -37,7 +37,7 @@ exports[`<Main /> should render heading 1`] = `
   class="c0"
 >
   <img
-    alt="Imagem de um átomo e React Avançado escrito ao lado."
+    alt="Imagem de um átomo e React Avançado escrito ao lado"
     class="c1"
     src="/img/logo.svg"
   />
